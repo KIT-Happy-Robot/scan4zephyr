@@ -8,7 +8,7 @@
 
 ```bash
 python3 -m venv rs_env
-pip install -r requirements.txt
+pip install -r requirements.txt (エラー吐いてるかも)
 ```
 
 ## How to use
