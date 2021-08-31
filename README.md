@@ -25,7 +25,7 @@ deactivate
 ### Windows
 
 ```bash
-./rs_env/Scripts/activate
+.\rs_env\Scripts\activate
 python 3dscan.py {folder_name}
 # 使い終わったら
 deactivate
