@@ -21,7 +21,7 @@ python 3dscan.py {folder_name}
 # 使い終わったら
 deactivate
 ```
-
+# 未完成
 ### Windows
 
 ```bash
