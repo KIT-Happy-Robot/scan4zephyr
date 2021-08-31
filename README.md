@@ -1,8 +1,8 @@
-# 3dscan.py
+# scan4zephyr
 
 ## Introduction
 
-3dscanとは言うけれど、正しくは3DF Zephyrでフォトグラメトリを行うための写真を撮影するプログラムである。
+3dscan.pyってあるけど、正しくは3DF Zephyrでフォトグラメトリを行うための写真を撮影するプログラムである。
 
 ## Setup
 
