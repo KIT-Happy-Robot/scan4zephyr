@@ -3,6 +3,7 @@
 ## Introduction
 
 scan.pyってあるけど、正しくは3DF Zephyrでフォトグラメトリを行うための写真を撮影するプログラムである。
+WebカメラじゃなくてIntelのRealSenseで撮影すること。
 
 ## Setup
 
