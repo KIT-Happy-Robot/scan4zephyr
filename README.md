@@ -8,6 +8,8 @@ scan.pyってあるけど、正しくは3DF Zephyrでフォトグラメトリを
 
 ```bash
 python3 -m venv sfz_venv
+# pipのアップデート
+pip install -U pip
 ```
 
 ## How to use
