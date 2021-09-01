@@ -15,7 +15,7 @@ python3 -m venv sfz_venv
 ### Linux
 
 ```bash
-source rs_venv/bin/activate
+source rfz_venv/bin/activate
 # pipのアップデート
 pip install -U pip
 pip install -r requirements.txt
@@ -27,7 +27,7 @@ deactivate
 ### Windows
 
 ```bash
-.\rs_env\Scripts\activate
+.\rfz_env\Scripts\activate
 # pipのアップデート
 pip install -U pip
 pip install -r requirements.txt
