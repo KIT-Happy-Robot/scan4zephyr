@@ -8,8 +8,6 @@ scan.pyってあるけど、正しくは3DF Zephyrでフォトグラメトリを
 
 ```bash
 python3 -m venv sfz_venv
-# pipのアップデート
-pip install -U pip
 ```
 
 ## How to use
@@ -18,6 +16,8 @@ pip install -U pip
 
 ```bash
 source rs_venv/bin/activate
+# pipのアップデート
+pip install -U pip
 pip install -r requirements.txt
 python 3dscan.py {folder_name}
 # 使い終わったら
@@ -28,6 +28,8 @@ deactivate
 
 ```bash
 .\rs_env\Scripts\activate
+# pipのアップデート
+pip install -U pip
 pip install -r requirements.txt
 python 3dscan.py {folder_name}
 # 使い終わったら
