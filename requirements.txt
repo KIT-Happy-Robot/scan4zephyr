@@ -1,0 +1,7 @@
+DateTime==4.3
+numpy==1.19.5
+opencv-python==4.5.3.56
+pkg_resources==0.0.0
+pyrealsense2==2.49.0.3474
+pytz==2021.1
+zope.interface==5.4.0
